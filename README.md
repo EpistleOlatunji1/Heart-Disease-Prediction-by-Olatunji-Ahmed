@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction-by-Olatunji-Ahmed
 This project employs various machine learning algorithms to build a predictive model. The goal is to assist in early diagnosis and risk assessment for heart disease, ultimately contributing to improved patient care.
-Key Features
 
+# Key Features
     Data Exploration: We dive into the dataset to understand the distribution of features, identify correlations, and explore patterns within the data.
     Data Preprocessing: Data cleaning, handling missing values, and feature engineering are performed to prepare the dataset for model training.
     Model Selection: Linear Regression was considered for the machine learning process.
